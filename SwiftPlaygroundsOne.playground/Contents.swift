@@ -21,5 +21,30 @@ var mySecondVariable = "and look I combined 2 strings together"
 myFirstVariable + mySecondVariable
 
 var myThirdVariable = myFirstVariable + mySecondVariable
-
 print(myThirdVariable)
+
+// Assignment #2 Introduction to True and False
+var appState = false
+
+print(appState)
+
+//Comparing variables using > (greater than) or < (less than)
+var numberOne = 5
+var numberTwo = 7
+
+//Create a variable that holds the comparison on the two variables we just created
+
+var compare = numberOne > numberTwo
+
+//Comparing variables using > (greater than) or < (less than)
+
+var bankBalance = 300
+var carToBuy = 5000
+
+//Create a variable that holds tha comparison on the two variables we just created
+var Compare = bankBalance < carToBuy
+
+//Comparing variables using > (greater than) or < (less than)
+
+
+
