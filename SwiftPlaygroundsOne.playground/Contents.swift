@@ -23,8 +23,10 @@ myFirstVariable + mySecondVariable
 var myThirdVariable = myFirstVariable + mySecondVariable
 print(myThirdVariable)
 
-// Assignment #2 Introduction to True and False
+// Assignment #2 Introduction to True and False Class 4 Thursday 1.21.21
 var appState = false
+
+//print() - print function - it prints into the console - all functions have a name and followed by parenthesis ()
 
 print(appState)
 
@@ -36,6 +38,10 @@ var numberTwo = 7
 
 var compare = numberOne > numberTwo
 
+print(compare)
+
+//Create a variable that holds the comparison on the two variable we just created
+
 //Comparing variables using > (greater than) or < (less than)
 
 var bankBalance = 300
@@ -45,6 +51,7 @@ var carToBuy = 5000
 var Compare = bankBalance < carToBuy
 
 //Comparing variables using > (greater than) or < (less than)
+
 
 
 
