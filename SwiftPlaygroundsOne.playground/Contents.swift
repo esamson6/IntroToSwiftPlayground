@@ -23,6 +23,19 @@ myFirstVariable + mySecondVariable
 var myThirdVariable = myFirstVariable + mySecondVariable
 print(myThirdVariable)
 
+// Part 8, create three variables and assign each of them a string.
+var myFourthVariable = "I have a dog."
+
+var myFifthVariable = "He is an American Pitbull."
+
+var mySixthVariable = "His name is Bubba."
+
+//String concatenation
+var mySeventhVariable = myFourthVariable + myFifthVariable + mySixthVariable
+
+//Print fourth variable
+print(mySeventhVariable)
+
 // Assignment #2 Introduction to True and False Class 4 Thursday 1.21.21
 var appState = false
 
@@ -40,18 +53,13 @@ var compare = numberOne > numberTwo
 
 print(compare)
 
-//Create a variable that holds the comparison on the two variable we just created
+// Part 7: Create two different variables and assign those variables to two different strings
 
-//Comparing variables using > (greater than) or < (less than)
+var myEightVariable = "Bubba"
+var myNinthVariable = "Bubba"
+var myComparison = myEightVariable == myNinthVariable
 
-var bankBalance = 300
-var carToBuy = 5000
-
-//Create a variable that holds tha comparison on the two variables we just created
-var Compare = bankBalance < carToBuy
-
-//Comparing variables using > (greater than) or < (less than)
-
+print(myComparison)
 
 
 
